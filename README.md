@@ -1,6 +1,6 @@
 # Comparison of classifiers on a heart disease dataset in Python
 
-This was my first student project, but I decided to upload it here to improve it in the future.
+<span style="color:red">This was my first student project (from a few years ago), but I decided to upload it here to improve it in the future. :)</span>
 
 **Project Objective:** The objective of the project is to evaluate several classifiers on a chosen dataset.
 
